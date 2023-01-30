@@ -6,7 +6,7 @@
          "48": "data/icons/48.png",
          "64": "data/icons/64.png"
       },
-      "default_title": "Formatter & Beautifier"
+      "default_title": "Minifier & Compressor"
    },
    "background": {
       "service_worker": "background.js"
@@ -15,7 +15,7 @@
       "_execute_action": {
       }
    },
-   "description": "a JavasScript, CSS, and HTML beautifier for your browser that is lightweight.",
+   "description": "A lite and free JavasScript, CSS and HTML minifier & Compressor for your browser.",
    "homepage_url": "https://www.downloadhub.cloud/2023/01/Beautifier.html",
    "icons": {
       "128": "data/icons/128.png",
@@ -25,9 +25,9 @@
       "64": "data/icons/64.png"
    },
    "manifest_version": 3,
-   "name": "Source Code Formatter & Beautifier",
+   "name": "HTML,CSS,JS Minifier & Compressor",
    "offline_enabled": true,
    "permissions": [ "storage", "contextMenus" ],
-   "short_name": "html",
+   "short_name": "minifier",
    "version": "0.1.2"
 }
